@@ -3,6 +3,6 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cameron-stuart&show_icons=true&count_private=true)
+![Cameron's github stats](https://github-readme-stats.cameron-stuart.vercel.app/api?username=cameron-stuart&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cameron-Stuart)
+![Top Langs](https://github-readme-stats.cameron-stuart.vercel.app/api/top-langs/?username=Cameron-Stuart)
