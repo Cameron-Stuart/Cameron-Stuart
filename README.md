@@ -3,6 +3,5 @@
 
 
 
-![Cameron's github stats](https://github-readme-stats.cameron-stuart.vercel.app/api?username=cameron-stuart&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.cameron-stuart.vercel.app/api/top-langs/?username=Cameron-Stuart&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&card_width=445)
+![Cameron's github stats](https://github-readme-stats.cameron-stuart.vercel.app/api?username=cameron-stuart&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&line_height=31&hide_title=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.cameron-stuart.vercel.app/api/top-langs/?username=Cameron-Stuart&layout=compact&card_width=395&theme=dracula&hide_border=true)
