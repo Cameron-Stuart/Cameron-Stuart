@@ -14,3 +14,6 @@
 <a href="https://github.com/Cameron-Stuart/GPlayEdge">
   <img width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=Cameron-Stuart&repo=GPlayEdge&theme=dracula&hide_border=true" />
 </a>
+
+##### Recent Activity
+<!--START_SECTION:activity-->
