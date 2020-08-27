@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cameron</h1>
-<h3 align="center">A passionate C# developer from the UK</h3>
+<h3 align="center">A passionate .NET developer from the UK</h3>
 
 ##### GitHub Stats
 ---
